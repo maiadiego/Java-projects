@@ -1,0 +1,1282 @@
+5 2562.93 Bahia
+3 10837.26 Pará
+3 6639.62 Espírito Santo
+7 6711.15 Goiás
+7 5043.18 Rio de Janeiro
+5 4483.26 Acre
+4 7970.09 Sergipe
+2 11079.22 Paraíba
+6 4935.35 Distrito Federal
+4 5311.9 Paraíba
+2 9340.47 Goiás
+7 7530.96 Amapá
+5 3295.99 Amapá
+4 6140.7 Espírito Santo
+3 6477.39 Mato Grosso do Sul
+7 8153.96 Ceara
+3 3561.63 Pará
+4 2644.64 Santa Catarina
+7 14917.9 Rio Grande do Norte
+2 9651.88 Goiás
+2 10543.6 Rondônia
+4 5278.79 Paraná
+4 4840.53 Santa Catarina
+3 6097.91 Rio Grande do Sul
+5 6842.22 Rio Grande do Norte
+6 8880.17 Ceara
+2 10950.99 Tocantins
+7 8249.58 Goiás
+4 14466.81 Amazonas
+5 5329.39 Santa Catarina
+3 3752.15 São Paulo
+5 11820.35 Santa Catarina
+7 5948.29 Rondônia
+7 6350.24 Sergipe
+5 10291.08 Rio de Janeiro
+7 9158.29 Espírito Santo
+3 6510.88 Mato Grosso
+7 3444.59 Minas Gerais
+4 13913.53 Maranhão
+3 2046.87 Rio Grande do Norte
+3 7774.98 Pará
+7 10102.48 Rio Grande do Norte
+2 9475.96 Distrito Federal
+2 7789.72 Minas Gerais
+3 2524.18 Pernambuco
+6 13978.18 Pernambuco
+4 14176.34 Amazonas
+6 13188.84 Sergipe
+2 7572.76 Rondônia
+2 12167.37 Tocantins
+4 5300.81 Amapá
+4 3135.27 Pará
+3 8839.65 Sergipe
+2 5196.63 Rio de Janeiro
+5 7700.78 Amazonas
+3 7364.29 São Paulo
+2 3013.03 Distrito Federal
+2 11246.92 Rondônia
+5 5206.75 Acre
+2 4231.53 Mato Grosso do Sul
+7 3934.37 Ceara
+4 14586.62 Rio de Janeiro
+6 13523.61 Ceara
+4 5473.36 Sergipe
+4 7458.13 Piauí
+4 2901.55 Distrito Federal
+5 8585.87 São Paulo
+5 7388.63 Mato Grosso do Sul
+2 4587.12 Bahia
+7 12271.78 Paraíba
+4 4158.32 Roraima
+7 3480.27 Maranhão
+5 10660.74 Minas Gerais
+4 10708.41 Sergipe
+4 4891.69 Roraima
+3 13584.4 Paraná
+4 11868.81 Paraíba
+6 3043.61 Amapá
+7 7203.84 Pernambuco
+3 2565 São Paulo
+7 6784.81 Piauí
+4 14748.28 Distrito Federal
+2 10329.9 Paraná
+7 4614.76 São Paulo
+4 14816.14 Roraima
+5 13324.87 Espírito Santo
+5 14393.79 Pernambuco
+3 4836.07 São Paulo
+6 8298.37 Pará
+5 2536.82 Pará
+3 10848.04 Mato Grosso
+3 9710.11 Alagoas
+2 8441.64 Alagoas
+5 10625.92 Minas Gerais
+7 11663.81 São Paulo
+4 5011.27 Acre
+7 3883.49 Rondônia
+4 13244.6 Mato Grosso do Sul
+6 2563.44 Amapá
+4 8385.9 Pernambuco
+2 10566.37 Paraíba
+4 6016.48 Tocantins
+5 7815.67 Paraíba
+7 5282.64 Tocantins
+2 14426.87 Alagoas
+5 10855.12 Mato Grosso
+6 5956.75 Amapá
+2 8526.63 Amazonas
+6 3290.96 Rondônia
+4 11909.8 Mato Grosso
+4 11652.65 Pernambuco
+2 10182.43 São Paulo
+3 11585.64 Pará
+2 9962.55 Amapá
+6 10998.74 São Paulo
+5 6836.62 Bahia
+4 12591 Rio Grande do Norte
+6 10949.81 Ceara
+3 9564.9 Sergipe
+7 4085.39 Mato Grosso
+5 9288.55 Amazonas
+3 5131.9 Maranhão
+7 11524.06 Paraná
+7 8576.91 Alagoas
+5 2780.95 Espírito Santo
+6 10753.29 Mato Grosso do Sul
+4 3088.97 Ceara
+7 14073.15 Paraná
+4 5460.26 Espírito Santo
+7 13404.08 Roraima
+5 3676.91 Mato Grosso do Sul
+2 14988.17 Espírito Santo
+4 5454.75 Espírito Santo
+2 10059.01 Acre
+5 7874.39 Tocantins
+3 4615.03 Sergipe
+5 13071.39 Ceara
+3 5181.81 Goiás
+2 8613.53 Distrito Federal
+5 12095.97 São Paulo
+6 13954.02 Rio Grande do Sul
+4 12480.91 Amapá
+2 7250.04 Rio Grande do Norte
+4 9488.1 Rio Grande do Norte
+6 11759.13 Sergipe
+3 14940.79 Rondônia
+4 11200.59 Amazonas
+4 5548.24 Tocantins
+5 5993.61 Tocantins
+4 7326.02 São Paulo
+5 8424.48 Maranhão
+5 9415.92 Espírito Santo
+4 3347.82 Rio Grande do Norte
+3 2079.81 Sergipe
+4 8336.73 Distrito Federal
+4 4993.52 Mato Grosso
+5 14218.39 Sergipe
+7 7373.03 Rio Grande do Sul
+3 10495.57 Minas Gerais
+7 9798.86 Maranhão
+5 6813.69 Rondônia
+5 13863.61 Sergipe
+2 12486.69 Mato Grosso
+5 7028.96 São Paulo
+4 7492.07 Pernambuco
+5 3398.09 Rio de Janeiro
+7 7354.48 Tocantins
+7 9576.88 Amapá
+7 8855.94 Goiás
+6 12312.44 Roraima
+7 12687.07 Santa Catarina
+7 11686.14 Roraima
+5 6194.3 Maranhão
+6 10824.56 Ceara
+7 11575.2 Alagoas
+2 4023.53 Mato Grosso
+3 6522.09 Minas Gerais
+4 8540.83 Rondônia
+4 7262.35 São Paulo
+7 6204.84 Minas Gerais
+6 11612.86 Paraíba
+3 10512.72 Distrito Federal
+5 12098.22 Amapá
+6 7627.41 Rio de Janeiro
+6 11670.71 Tocantins
+2 6773.56 Alagoas
+7 8511.51 Goiás
+4 13954.01 Minas Gerais
+6 11173.13 Pernambuco
+6 5159.07 Espírito Santo
+7 14711.2 Amazonas
+5 13173.72 Mato Grosso do Sul
+5 8322.76 Paraíba
+7 5817.01 Maranhão
+6 3371.04 Goiás
+2 12580.07 Rio de Janeiro
+5 9529.01 Espírito Santo
+5 10086.01 Amapá
+4 9041.65 Pernambuco
+4 6454.63 Alagoas
+4 10956.77 Piauí
+2 13587.67 Amapá
+5 3767.98 Paraíba
+6 4995.69 Goiás
+5 8730.75 Rio de Janeiro
+3 12510.79 Amazonas
+4 9691.53 Amazonas
+5 3704.41 Distrito Federal
+6 3415.03 Pernambuco
+3 11970.17 Rio Grande do Sul
+5 5556.17 Paraná
+5 10289.57 Amapá
+5 7970.91 Maranhão
+6 3154.93 Bahia
+3 3835.03 Pernambuco
+2 12072.47 Paraíba
+7 7873.15 Paraná
+3 14655.9 Rio Grande do Norte
+5 10242.06 Rio Grande do Sul
+2 4617.85 Amazonas
+3 10448.65 Amapá
+7 8445.17 Rondônia
+4 9623.78 Paraíba
+5 12617.39 Goiás
+7 12993.4 São Paulo
+7 12851.98 Pará
+4 12586.14 Ceara
+6 2703.35 Paraná
+4 2276.21 Rio de Janeiro
+3 2431.56 Bahia
+5 13246.48 Rio Grande do Sul
+3 13112.78 Amapá
+5 2046.11 Rio Grande do Sul
+3 4771.53 Amazonas
+5 9007.02 Amapá
+3 11926.74 Paraíba
+7 10473.51 São Paulo
+4 13649.1 Acre
+2 8322.61 Paraíba
+7 11510.78 Minas Gerais
+4 8434.88 Minas Gerais
+3 13473.33 Tocantins
+6 5451.42 Minas Gerais
+2 8607.87 Rio de Janeiro
+2 11630.89 Bahia
+5 8957.54 Acre
+5 13440.06 Amazonas
+2 10507.99 Santa Catarina
+6 10420.96 Espírito Santo
+3 13076.9 Maranhão
+4 6608.22 Bahia
+7 7671.37 Rondônia
+3 3534.5 Goiás
+5 11091.29 Pernambuco
+7 2458.48 Espírito Santo
+7 9094.83 Paraná
+5 10323.05 Pará
+5 6527.49 Rio de Janeiro
+7 2649.87 Rio Grande do Sul
+7 14620.42 Rondônia
+5 13403.5 Mato Grosso
+2 2644.1 Amazonas
+2 4227.47 São Paulo
+6 7689.86 Ceara
+5 14178.51 Minas Gerais
+4 8988.29 Alagoas
+3 5920.81 Bahia
+4 4403.38 Maranhão
+4 13654.12 Tocantins
+3 11344.4 Rio de Janeiro
+4 7524.59 Paraíba
+7 7995.45 Santa Catarina
+6 3936.44 São Paulo
+5 2572.94 Minas Gerais
+5 4640.25 Bahia
+6 5906.16 Paraná
+5 12870.4 Sergipe
+7 2659.02 Paraná
+5 14452.09 Distrito Federal
+2 12180.94 Paraíba
+6 6835.09 Amazonas
+2 2384.81 Paraná
+6 2972.38 Alagoas
+2 2956.21 Distrito Federal
+6 7110.29 Amazonas
+4 2456.7 São Paulo
+2 14157.85 Paraná
+6 4298.35 Alagoas
+6 13073.41 Sergipe
+3 4267.63 Piauí
+6 11867.98 Distrito Federal
+2 13242.9 Rio Grande do Norte
+2 7154.34 Pernambuco
+7 3864.03 Santa Catarina
+4 2883.86 Amazonas
+2 6091.01 Rio Grande do Sul
+5 7746.35 Goiás
+6 3266.2 Mato Grosso
+4 10755.54 Ceara
+4 8641.59 Rondônia
+7 9436.68 Amazonas
+7 10613.83 Ceara
+5 2064.26 Paraíba
+7 7953.96 Acre
+7 3747.68 Mato Grosso
+2 12062.23 Amapá
+6 13654.12 Paraná
+5 4760.62 Piauí
+5 9543.97 Roraima
+4 3405.23 Acre
+4 12533.78 Bahia
+4 3616.43 Alagoas
+2 9516.9 Distrito Federal
+2 11554.77 Minas Gerais
+7 11844.71 Tocantins
+6 3779.58 Acre
+2 2017.99 Mato Grosso do Sul
+3 5779.7 Rio Grande do Sul
+4 14636.07 Bahia
+7 6104.61 Amapá
+5 6882.69 Rio de Janeiro
+5 12268.5 São Paulo
+5 10057.76 Alagoas
+2 5425.26 Alagoas
+2 5773.07 Maranhão
+7 3251.99 Bahia
+7 11133.7 Distrito Federal
+4 2906.96 Paraíba
+7 11562.49 Minas Gerais
+3 10425.82 Pernambuco
+4 6100.88 Tocantins
+4 10757 Sergipe
+6 9575.91 Tocantins
+7 10393.21 Piauí
+4 3682.83 Roraima
+4 9093.35 Amazonas
+3 2703.03 Rio Grande do Norte
+6 11653.48 Rondônia
+7 14537.63 Tocantins
+7 8411.06 Tocantins
+6 14526.74 Goiás
+3 3783.75 Roraima
+2 13466.7 Paraná
+7 8725.38 Santa Catarina
+5 13850.63 Piauí
+3 9431.75 Tocantins
+2 11011.94 São Paulo
+3 4861.74 Roraima
+7 12520.85 Acre
+4 7976.2 Amazonas
+5 11658.85 Rio de Janeiro
+2 5088.72 Amapá
+3 12435.29 São Paulo
+3 12323.92 Rio Grande do Sul
+6 5772.6 Goiás
+3 8453.96 Santa Catarina
+2 7594.59 Bahia
+3 9470.22 Pernambuco
+2 4626.85 Rio Grande do Sul
+2 7809.35 Santa Catarina
+7 10278.15 Sergipe
+2 14604.34 Mato Grosso
+3 10321.71 Pará
+7 7659.56 Santa Catarina
+3 11591.94 Santa Catarina
+5 8971.03 Sergipe
+6 8517.97 Rio Grande do Sul
+2 3783.94 Alagoas
+7 9597.79 Mato Grosso do Sul
+4 13209.89 Maranhão
+4 10520.02 Maranhão
+5 6828.01 Rio Grande do Sul
+2 6766.93 Maranhão
+3 14842.04 Rondônia
+7 3841.1 Pará
+3 14907.28 Distrito Federal
+2 7205.2 Distrito Federal
+5 2561.73 Ceara
+7 3956.22 Paraná
+2 7169.36 Rio de Janeiro
+6 9770.5 Ceara
+2 4472.14 Rio Grande do Norte
+2 13494.72 Pernambuco
+3 6108.2 Distrito Federal
+5 10056.24 Minas Gerais
+2 3892.88 Tocantins
+4 6260.51 Paraíba
+3 13110.32 Sergipe
+5 11958.83 Minas Gerais
+4 12597.1 Paraná
+4 3520.27 Mato Grosso
+5 13482.44 Amazonas
+7 8740.16 Sergipe
+4 8412.41 Paraíba
+4 2689.85 Distrito Federal
+2 2616.67 Goiás
+7 12654.92 Espírito Santo
+2 5598.25 Ceara
+4 5311.73 Rio de Janeiro
+6 5326.37 Rio Grande do Norte
+4 10868.59 Roraima
+4 13962.42 Paraíba
+6 12020.55 Mato Grosso
+5 2670.78 Paraíba
+3 10678.46 Alagoas
+6 10117.18 Paraíba
+4 4803.79 Mato Grosso
+3 5893.42 Pernambuco
+6 9476.93 Roraima
+5 14843.9 Rondônia
+5 7951.14 Maranhão
+7 3364.25 Amapá
+4 2431.99 Piauí
+5 3780.56 Rio de Janeiro
+6 5235.75 Pernambuco
+5 7037.43 Piauí
+4 3613.27 Pernambuco
+5 7745.45 Minas Gerais
+4 8023.58 Ceara
+3 2840.4 Paraná
+2 10881.71 Rio de Janeiro
+4 9091.81 Amapá
+4 2713.7 Tocantins
+5 8852.26 Mato Grosso do Sul
+7 11522.04 Sergipe
+3 8773.08 Bahia
+6 7314.99 Roraima
+6 5043.28 Goiás
+3 11664.67 Amapá
+7 11987.68 Santa Catarina
+7 10499.43 Santa Catarina
+6 11012.61 Rondônia
+3 14289.86 Piauí
+4 4255.78 Santa Catarina
+2 6961.66 Tocantins
+7 4237.77 Amazonas
+5 9998.25 São Paulo
+5 11187.82 Tocantins
+7 14111.3 Rio Grande do Sul
+3 11546.14 Amazonas
+3 14237.1 Amazonas
+5 12964.17 Amapá
+4 12259.28 Piauí
+6 9677.86 Mato Grosso do Sul
+7 10751.56 Pernambuco
+3 4010.68 Paraíba
+2 9449.63 Pernambuco
+3 9572.04 Pernambuco
+5 2708.77 Rio de Janeiro
+6 5804.59 Pará
+2 8932.35 Piauí
+6 13460.53 Mato Grosso
+4 9903.9 Piauí
+4 6819.42 Amazonas
+2 9510.69 Piauí
+2 5756.63 Mato Grosso
+4 8179.82 Mato Grosso
+5 8940.46 Roraima
+6 8297.62 Rondônia
+7 7966.83 Pará
+5 11281.98 Maranhão
+5 9939.84 Maranhão
+7 10731.25 Ceara
+5 13631.64 Rio Grande do Sul
+5 10478.52 Goiás
+6 14628.25 São Paulo
+7 14447.83 Minas Gerais
+3 6508.04 Roraima
+2 10559.07 Amazonas
+2 2018.75 Minas Gerais
+2 10382.85 Bahia
+2 7464.71 Espírito Santo
+2 4046.85 Rio Grande do Norte
+6 3060.01 Ceara
+7 11393.34 Mato Grosso do Sul
+5 2312.54 Maranhão
+4 8599.86 Amapá
+5 10608.53 Alagoas
+5 12770.05 Rio Grande do Sul
+4 2364.07 Rondônia
+2 13851.16 Amazonas
+2 2894.63 Minas Gerais
+4 3350.75 Alagoas
+6 7601.43 Distrito Federal
+6 3306.44 Santa Catarina
+6 4661.58 Minas Gerais
+7 9727.23 Alagoas
+5 10548.07 Distrito Federal
+6 7052.65 Rondônia
+4 10742.61 Paraíba
+7 10449.79 Pará
+7 7104.61 Paraná
+6 7991.9 Maranhão
+3 9298.2 Ceara
+7 5003.61 Maranhão
+3 9357.4 Pará
+3 9558.42 Rio Grande do Sul
+6 8515.9 Rio Grande do Sul
+6 8045.13 Mato Grosso
+4 14012.64 São Paulo
+6 7131.97 Roraima
+4 3392.71 Rio Grande do Sul
+5 6348.83 Rio Grande do Sul
+2 8144.79 Maranhão
+7 12069.49 Roraima
+2 9128.09 Roraima
+5 2687.71 Tocantins
+2 9260.31 Mato Grosso
+2 10241.6 Alagoas
+6 9065.52 Santa Catarina
+7 11960.04 Ceara
+7 12051.79 Amapá
+7 12983.9 Rio Grande do Sul
+2 14465.96 Ceara
+7 5957.91 Santa Catarina
+7 12382.19 Rio Grande do Sul
+3 12587.52 Mato Grosso
+6 8617.27 São Paulo
+7 2049.44 Rondônia
+6 11854.47 Amazonas
+5 5624.83 Mato Grosso
+4 3663.99 Santa Catarina
+5 4492.07 Espírito Santo
+6 5463.74 Amazonas
+7 3232.17 Pará
+7 7186.47 Goiás
+6 13247.46 Bahia
+6 9803.35 Mato Grosso
+7 3362.42 Goiás
+6 2628.72 Mato Grosso
+2 12591.87 Rio Grande do Sul
+2 10979.69 Maranhão
+2 12232.02 Espírito Santo
+7 3424.08 Mato Grosso do Sul
+2 10881.59 Rio de Janeiro
+4 13576.15 Maranhão
+3 3809.67 Mato Grosso
+4 4698.49 Pará
+7 3582.99 Tocantins
+7 2782.42 Bahia
+7 9860.64 Santa Catarina
+4 10055.26 Espírito Santo
+6 5062.38 Rio Grande do Sul
+4 7609.22 Piauí
+6 14950.41 Rio de Janeiro
+7 3196.27 Minas Gerais
+7 9626.28 Bahia
+5 5866.22 Alagoas
+3 5039.82 Pará
+6 10361.48 Distrito Federal
+3 6577.74 Tocantins
+3 13739.86 Paraíba
+2 11104.52 Goiás
+2 3971.83 Paraíba
+2 8995.03 Tocantins
+4 4353.4 Alagoas
+7 14950.7 Tocantins
+3 4509.55 Mato Grosso
+7 2235.79 Maranhão
+7 6868.03 São Paulo
+6 5682.28 Rio Grande do Sul
+5 4324.13 Santa Catarina
+7 3933.96 Acre
+5 8059.5 Piauí
+5 14946.14 Maranhão
+5 4021.49 Goiás
+2 3975.13 Maranhão
+6 7408.68 Amapá
+2 12720.32 Mato Grosso do Sul
+2 13628.06 Sergipe
+6 3926.5 Paraná
+6 7029.17 Goiás
+4 14165.59 Distrito Federal
+4 3595.56 Bahia
+4 14032.41 Mato Grosso do Sul
+4 5463.3 Maranhão
+2 6081.21 Goiás
+2 3555.97 Paraíba
+4 6949.2 Santa Catarina
+5 8474.14 Sergipe
+2 6610.04 Tocantins
+4 10651.06 Pará
+4 6786.88 Sergipe
+6 13915.29 Ceara
+2 3243.26 Goiás
+6 6658.97 Sergipe
+6 6092.06 Rondônia
+5 11440.63 Distrito Federal
+5 8906.02 Paraíba
+4 9406.18 Amazonas
+5 10134.92 Sergipe
+3 7124.72 Maranhão
+3 9757.16 Espírito Santo
+4 5942.36 Rio Grande do Norte
+4 9053.67 Rondônia
+3 2286.13 Alagoas
+5 14498.26 Maranhão
+7 3978.79 Espírito Santo
+4 2174.98 Rondônia
+6 10161.04 Goiás
+6 14042.83 Pernambuco
+6 6311.08 Roraima
+7 14109.59 Pará
+2 7906.42 Minas Gerais
+2 11244.28 Alagoas
+3 14902.46 Rio Grande do Norte
+2 2268.83 Pará
+6 4782.19 Maranhão
+3 12198.74 Roraima
+7 12319.22 Amapá
+2 8930.69 Rio de Janeiro
+5 9821.78 Bahia
+6 7685.04 Ceara
+5 2322.11 Piauí
+3 3826.62 Amazonas
+5 10266.04 São Paulo
+5 9770.73 Rio de Janeiro
+2 8935.17 Maranhão
+6 13867.91 Mato Grosso do Sul
+6 13424.94 Alagoas
+5 8005.93 Minas Gerais
+6 2917.42 Espírito Santo
+6 3527.14 Mato Grosso do Sul
+3 12617.98 Paraíba
+4 3028.77 Maranhão
+2 10841.82 Rondônia
+4 2018.25 Bahia
+7 10523.99 Alagoas
+2 13348.7 Piauí
+7 12076.29 Roraima
+5 5982.73 Santa Catarina
+3 10023.59 Piauí
+2 13724.78 Mato Grosso
+6 7895.54 Acre
+4 13032.97 Minas Gerais
+4 14294.2 Ceara
+2 10915.93 Rio Grande do Sul
+7 12989.55 Tocantins
+4 10623.81 Maranhão
+5 11863.75 Rio Grande do Sul
+7 13269.07 Pernambuco
+2 2377.49 Espírito Santo
+2 10590.13 Rondônia
+3 12747.4 Rio Grande do Norte
+2 5667.86 Distrito Federal
+4 4957.8 Pará
+6 5423.37 Rondônia
+3 2337.08 Maranhão
+5 14234.46 Amazonas
+2 7574.54 Amazonas
+2 3962.37 Amazonas
+5 6761.29 Minas Gerais
+5 9652.42 Rio Grande do Sul
+4 4295.34 Rio de Janeiro
+7 3008.79 Paraíba
+2 2325.73 Santa Catarina
+7 14304.24 Maranhão
+6 10628.65 Rio Grande do Norte
+6 7803.24 Rio de Janeiro
+7 5984.66 Mato Grosso do Sul
+6 11765.76 Sergipe
+6 11135.11 Pernambuco
+4 2942.64 Santa Catarina
+2 12752.95 Acre
+4 2216.01 Rio Grande do Norte
+3 5690.66 Alagoas
+3 3531.19 Pernambuco
+3 7043.14 Piauí
+6 11157.28 Alagoas
+4 7605.94 Paraíba
+5 3456.17 Rio de Janeiro
+4 12331.76 Piauí
+5 13715.5 Paraíba
+4 8202.17 Santa Catarina
+2 3595.55 Roraima
+2 14939.56 Tocantins
+2 8399.36 Espírito Santo
+2 6774.04 Piauí
+3 13297.5 Amazonas
+2 6072.88 Acre
+2 10493.1 Paraná
+5 13489.11 Goiás
+4 6006.85 Pará
+3 2662.87 Alagoas
+4 14493.05 Amazonas
+6 9122.02 Rondônia
+3 4753.93 Bahia
+2 13030.22 Pará
+6 6030.75 Rondônia
+4 10984.16 Distrito Federal
+4 4663.52 Pará
+7 13377.57 Roraima
+2 11321.01 Alagoas
+3 2875.4 Pará
+6 9868.17 Mato Grosso do Sul
+7 7922.71 Distrito Federal
+6 13933.79 Roraima
+6 2132.63 Piauí
+2 4287.96 Tocantins
+6 3769.48 Rio Grande do Sul
+6 11992.39 Tocantins
+7 2784.36 Pernambuco
+2 3775.44 São Paulo
+4 4561.45 Piauí
+6 3651.67 Bahia
+2 14209.18 Minas Gerais
+7 11577.09 Santa Catarina
+2 2820.71 Mato Grosso
+7 11590.74 Pará
+7 7198.32 Bahia
+4 2227.91 Paraíba
+7 11071.83 Roraima
+3 11425.1 Pernambuco
+2 4330.92 Tocantins
+6 12670.48 Paraíba
+7 7093.68 Rio Grande do Sul
+6 14738.33 Amazonas
+2 13197.65 Rio Grande do Sul
+2 11620.09 Roraima
+2 3684.72 Pará
+3 2736.76 Alagoas
+6 4198.87 Minas Gerais
+2 10895.33 Amazonas
+4 11366.53 Tocantins
+5 5971.83 Goiás
+4 5296.64 Ceara
+3 5987.35 Minas Gerais
+6 4361.11 São Paulo
+2 4436.95 Bahia
+6 14667.67 Rio Grande do Sul
+7 11539.82 Pernambuco
+4 9169.93 Sergipe
+3 8467.46 Espírito Santo
+3 14943.71 Ceara
+5 3129.25 Ceara
+3 10324.07 Bahia
+5 8339.65 Mato Grosso do Sul
+5 9439.86 Amazonas
+2 7472.6 Rio de Janeiro
+2 9684.93 Goiás
+5 8793.29 Rio de Janeiro
+6 14295.3 Roraima
+7 10890.62 Santa Catarina
+2 6738.02 Espírito Santo
+7 7499.11 Bahia
+7 11902.44 Bahia
+2 3603.83 Rio Grande do Norte
+5 3836.55 Minas Gerais
+5 12358.6 Amazonas
+7 10212.21 Pará
+7 8146.58 Minas Gerais
+5 5281.73 Alagoas
+3 10789.33 Santa Catarina
+6 12172.51 Pará
+7 4486.09 Acre
+7 6158.93 Rondônia
+2 4661.28 Roraima
+5 14896.87 Rio Grande do Sul
+7 4643.69 Rio de Janeiro
+6 14129.34 Pará
+4 4712.96 Alagoas
+4 10752.44 Rio Grande do Norte
+7 2260.03 Distrito Federal
+7 8872.2 Tocantins
+7 10494.9 Rio Grande do Sul
+7 9421.64 Espírito Santo
+5 9106.4 Alagoas
+5 3698.12 São Paulo
+6 12315.39 Acre
+3 11747.7 Mato Grosso
+7 7718.5 Pernambuco
+7 12178.59 Goiás
+4 10615.64 Paraná
+2 12334.59 Roraima
+5 6134.91 São Paulo
+2 9939.88 Maranhão
+3 12561.08 Piauí
+6 5134.45 Rondônia
+7 8823.15 Sergipe
+2 6202.07 Goiás
+2 7728.82 Paraíba
+2 8363.46 Ceara
+5 12679.5 Rondônia
+4 10654.29 Rio de Janeiro
+6 2104.65 Pará
+7 11771.19 Alagoas
+4 13693.89 Minas Gerais
+3 2006.18 Rio Grande do Sul
+4 12719.68 São Paulo
+5 10630.94 Distrito Federal
+7 4229.65 Rondônia
+3 9737.82 Rio Grande do Sul
+3 10924.97 São Paulo
+5 8112.81 Roraima
+2 14624.33 Pernambuco
+7 13956.47 Distrito Federal
+3 10568.94 Maranhão
+2 5443.62 Ceara
+5 3499.57 Rio de Janeiro
+4 11847.44 Rio Grande do Sul
+7 9431.26 Espírito Santo
+2 4077.26 Paraná
+3 9907.56 Pernambuco
+4 10123.17 Paraná
+4 5700.76 Piauí
+7 9892.55 São Paulo
+3 12309.41 Santa Catarina
+2 13422.23 Amapá
+6 5614.17 Pernambuco
+6 5040.92 Goiás
+7 6689.61 Rio de Janeiro
+4 11650.47 Tocantins
+3 8009.96 Maranhão
+7 9631.63 Santa Catarina
+4 3246.38 Santa Catarina
+5 11051.3 Alagoas
+3 14627.4 Ceara
+2 6283.8 Paraná
+4 2154.76 Goiás
+2 8880.38 Piauí
+2 11042.57 Goiás
+6 11682.62 Rio de Janeiro
+6 6294.74 Paraíba
+7 5490.18 Minas Gerais
+5 4933.14 Paraíba
+3 8591.56 Alagoas
+3 10274.48 Tocantins
+2 2424.69 Sergipe
+4 12453.19 Rondônia
+7 14388.77 Bahia
+4 6674.86 Paraná
+5 14261.83 Ceara
+3 3478.45 Rio de Janeiro
+4 8017.44 Ceara
+2 6919.15 Ceara
+6 5012.75 Paraíba
+5 12780.73 Pernambuco
+3 12834.82 Distrito Federal
+2 11238.32 Maranhão
+2 11914.42 Pernambuco
+5 6340.06 Bahia
+7 7646.55 Maranhão
+5 4470.38 Paraíba
+3 6363.63 Amapá
+5 3931.05 Tocantins
+7 5767.67 Minas Gerais
+3 5536.6 Acre
+3 5754.17 Tocantins
+6 9224.25 Goiás
+5 4201.01 Rio Grande do Norte
+4 2635.12 Goiás
+2 7809.9 Rio Grande do Sul
+3 8431.61 Maranhão
+5 2505.84 Paraná
+6 6498.19 Acre
+3 12385.73 Pernambuco
+7 14478.74 Tocantins
+2 8343.6 Rio Grande do Sul
+7 2040.63 Ceara
+2 9208.81 Goiás
+3 12786.85 Paraná
+4 3376.45 Piauí
+4 2564.59 Bahia
+4 5138.67 Goiás
+4 7525.37 Espírito Santo
+4 2156.09 Rio Grande do Sul
+3 4105.74 Roraima
+7 6244.08 Amapá
+2 4210.55 Amapá
+6 8582.53 Rio Grande do Norte
+7 3487.87 Tocantins
+3 14901.37 Amapá
+4 2347.77 Pará
+6 11689.24 Mato Grosso
+3 6686.75 Mato Grosso
+6 6889.69 Pernambuco
+7 8626.54 Rondônia
+7 5263.45 São Paulo
+3 9930.96 Santa Catarina
+2 10428.16 São Paulo
+7 11873.15 Maranhão
+2 2979.02 Amazonas
+4 5208.17 Minas Gerais
+4 4208.79 Espírito Santo
+7 9459.16 Acre
+2 8563.07 Alagoas
+7 10950.29 Pernambuco
+4 12829.5 Paraná
+7 8233.48 Maranhão
+4 14189.06 Amapá
+6 2846.2 Piauí
+5 9445.68 Santa Catarina
+5 13020.61 Amazonas
+5 10276.59 Sergipe
+2 8566.68 Minas Gerais
+7 13240.65 Piauí
+2 9559.17 Espírito Santo
+2 2712.39 Amazonas
+3 13060.15 Roraima
+4 13002.01 Rio de Janeiro
+2 8229.04 Acre
+3 13556.08 Santa Catarina
+4 14827.08 Espírito Santo
+6 8936.95 Alagoas
+3 3191.08 Sergipe
+3 4342.86 Mato Grosso do Sul
+4 8841.11 Paraná
+6 8178.64 Amazonas
+6 3259.52 Pará
+3 11005.33 Amazonas
+2 8208.03 Santa Catarina
+6 12368.75 Roraima
+3 11843.88 Mato Grosso
+2 3538.81 Santa Catarina
+3 5466.4 Mato Grosso do Sul
+5 8052.4 Rondônia
+2 13627.86 Paraná
+6 9914.9 Ceara
+3 8171.81 Bahia
+4 6865.04 Rio de Janeiro
+3 7530.09 São Paulo
+7 7950.72 Mato Grosso do Sul
+5 9934.89 Rio Grande do Sul
+6 11557.02 Rondônia
+7 14003.16 Alagoas
+5 5556.82 Paraíba
+5 8021.78 Pernambuco
+7 12735.09 Rondônia
+5 3126.37 Pará
+3 13122.44 Mato Grosso
+6 12229.69 Minas Gerais
+3 7396.52 Rio de Janeiro
+3 4806.34 Bahia
+3 8125.44 Ceara
+2 2542.3 Acre
+3 14272.81 Goiás
+3 9568.02 Rio Grande do Norte
+7 10674 Rio Grande do Norte
+3 11257.51 Acre
+4 6532.18 Pará
+2 2188.65 Pará
+6 7033.57 Santa Catarina
+5 12908.33 Piauí
+2 8132.89 Piauí
+5 13581.9 Mato Grosso
+7 7922.64 Espírito Santo
+4 3112.44 Pará
+2 10391.51 Amapá
+6 9207.62 Alagoas
+3 12191.67 Distrito Federal
+7 2549.71 Rio Grande do Norte
+2 7684 Paraíba
+6 12823.58 Amapá
+2 12463.19 Distrito Federal
+2 2176.1 Rio Grande do Sul
+2 10676.81 Espírito Santo
+7 3728.34 Pará
+5 5461.66 Goiás
+3 13930.74 Piauí
+4 4315.65 Paraná
+7 13149.47 Minas Gerais
+5 14846.52 Alagoas
+7 13380.14 Piauí
+2 2768.18 Rio de Janeiro
+7 5686.47 Goiás
+6 10995.03 Alagoas
+4 12104.76 Goiás
+6 3775.08 Goiás
+4 12801.62 Tocantins
+2 8780.63 Paraná
+2 2904.66 Mato Grosso
+3 7747.48 Roraima
+2 14938.87 Amazonas
+5 3087.37 Paraná
+7 10047.48 Paraná
+2 8872.75 Bahia
+5 14682.18 Mato Grosso do Sul
+7 2641.08 Paraná
+7 9620.43 Roraima
+2 3813.84 Piauí
+5 2566.02 Distrito Federal
+7 6238.23 Amazonas
+2 11074.56 Pernambuco
+2 13486.63 Paraíba
+6 4197.29 Santa Catarina
+4 2743.09 Alagoas
+3 11550.28 Amapá
+4 9825.65 Alagoas
+4 5155.9 Santa Catarina
+6 13735.11 Santa Catarina
+4 5605.52 Tocantins
+7 5331.86 Goiás
+4 10255.13 Pernambuco
+7 10987.39 São Paulo
+7 8763.47 Rondônia
+3 2253.2 Piauí
+7 10927.45 Roraima
+4 3077.02 Bahia
+3 5511.86 Alagoas
+5 5469.91 Sergipe
+5 8127.36 Rio de Janeiro
+5 12792.43 Minas Gerais
+6 2077.82 Distrito Federal
+3 7725.76 Espírito Santo
+7 5917.01 Piauí
+2 6935.02 Minas Gerais
+4 12715.92 Maranhão
+7 2167.51 Piauí
+7 8158.1 Bahia
+3 6320.18 Amapá
+3 10032.45 Amapá
+7 14649.64 Acre
+4 10676.58 Rio de Janeiro
+2 2851 Ceara
+3 12172.57 Minas Gerais
+4 9012.56 Roraima
+6 3594.62 Rio Grande do Sul
+4 13923.78 Rio Grande do Sul
+6 3459.38 Santa Catarina
+7 11047.75 Santa Catarina
+2 3160.61 Maranhão
+7 6792.49 Rio de Janeiro
+4 13164.61 Maranhão
+3 13261.43 Bahia
+2 5464.91 Piauí
+2 13983.04 Goiás
+5 4371.96 Amapá
+7 2979.53 Pernambuco
+6 5047.16 Goiás
+2 13615.9 São Paulo
+3 8238.61 Mato Grosso
+7 8646.92 Rio Grande do Norte
+6 4849.57 Goiás
+5 4980.39 Tocantins
+6 6461.35 Sergipe
+7 6343.94 Goiás
+5 3633.09 Sergipe
+3 8013.57 Rio Grande do Norte
+7 5382 Distrito Federal
+3 5500.28 Espírito Santo
+3 10567.48 Roraima
+3 3297.14 Sergipe
+7 8009.7 Goiás
+7 5540.33 Distrito Federal
+4 3153.03 Piauí
+3 2902.42 Ceara
+4 9566.8 Pernambuco
+5 12017.51 Rio de Janeiro
+7 5108.4 Santa Catarina
+6 5450.05 Distrito Federal
+3 4504.84 Mato Grosso do Sul
+6 4832.92 Sergipe
+5 8029.15 Minas Gerais
+5 5186.65 Pernambuco
+7 4721.2 Bahia
+7 5612.2 Paraíba
+6 10626.01 Roraima
+3 12442.97 Pernambuco
+2 11208.88 Bahia
+7 13622.65 Acre
+2 3099.02 Paraná
+7 12545.53 Goiás
+7 8274.91 Paraíba
+3 10176.81 Roraima
+2 14767.59 Amazonas
+5 4314.88 Roraima
+5 13074.54 Bahia
+7 10341.23 Minas Gerais
+5 8666.86 Santa Catarina
+7 7077.7 Pernambuco
+6 12744.41 Distrito Federal
+5 14418.49 Bahia
+4 6988.36 Ceara
+6 6687.73 Amapá
+6 2985.79 Pernambuco
+2 12953.81 Rio Grande do Norte
+2 13638.46 Santa Catarina
+5 11497.67 Paraíba
+2 5736.47 Rio Grande do Sul
+3 3740.36 Rio Grande do Sul
+4 12324.69 Espírito Santo
+7 4218.52 Mato Grosso
+6 12154.05 Pernambuco
+6 4626.41 Paraná
+6 3568.8 Mato Grosso do Sul
+7 12293.14 Rio Grande do Norte
+3 14643.77 Pernambuco
+5 2080.43 Acre
+6 4121.47 Amazonas
+3 5548.8 Pará
+2 3810.51 Amapá
+4 12615.84 Ceara
+6 10838.89 Alagoas
+7 8176.79 Mato Grosso
+6 8629.9 Acre
+6 13284.82 Minas Gerais
+7 8836.52 Mato Grosso
+2 6878.97 Piauí
+2 6014.32 Tocantins
+7 3673.79 Distrito Federal
+2 9636.09 Pernambuco
+2 13071.82 Acre
+5 12288.29 Distrito Federal
+7 7645.93 Distrito Federal
+4 4613.08 Rio Grande do Norte
+5 6305.22 Espírito Santo
+4 10106.25 São Paulo
+7 7483.35 Rio de Janeiro
+4 8589.6 Tocantins
+7 12309.44 Rio Grande do Sul
+7 11082.05 Paraná
+5 9254.86 Mato Grosso do Sul
+2 13482.11 Mato Grosso do Sul
+3 6637.08 Pará
+7 12005.4 Amapá
+7 6822.48 São Paulo
+7 8702.33 Roraima
+5 14695.66 Santa Catarina
+7 2505.43 Roraima
+2 5966.57 Amazonas
+4 10825.45 Amapá
+6 6580.76 Santa Catarina
+2 11064.79 Rio Grande do Norte
+6 10001.47 Paraíba
+5 5860.96 Sergipe
+7 6402.13 Amazonas
+4 9143.7 Distrito Federal
+7 13208.09 Acre
+7 4876.55 Paraíba
+5 13626.77 Mato Grosso do Sul
+2 7837.65 Acre
+6 13844.84 Alagoas
+3 11289.63 Rio de Janeiro
+5 4286.13 Sergipe
+2 7569.11 Pernambuco
+4 3148.62 Espírito Santo
+5 6205.31 Bahia
+3 8518.76 Ceara
+7 13614.7 Santa Catarina
+2 11527.44 Amapá
+4 2182.51 Pernambuco
+7 7523.85 Amapá
+7 5629.68 Sergipe
+4 7465.86 Roraima
+5 12797.15 São Paulo
+6 10841.15 Acre
+7 2082.67 Piauí
+2 14177.25 Rio Grande do Sul
+3 7838.15 Mato Grosso do Sul
+5 14402.7 Alagoas
+4 12858.77 Rondônia
+2 4927.79 Pernambuco
+6 6287.66 Roraima
+2 13935.51 Alagoas
+3 13340.92 Tocantins
+2 5734.87 Acre
+5 9664.53 Bahia
+2 6964.28 Acre
+3 8307.11 Roraima
+4 13077.55 Rio Grande do Norte
+4 11289.89 Distrito Federal
+3 5216.37 Maranhão
+3 10186.84 Mato Grosso
+3 3955.68 Amapá
+7 14771.58 Acre
+3 13620.51 Sergipe
+3 8668.33 Pará
+4 8099.12 São Paulo
+6 5595.69 Santa Catarina
+4 13132.98 Amazonas
+5 7609.51 Bahia
+2 7152 Rio Grande do Norte
+5 10377.24 Rio Grande do Norte
+6 6210.04 Santa Catarina
+5 11525.29 Acre
+6 5098.97 Paraíba
+6 2228.02 Alagoas
+5 2274.53 Amazonas
+2 7917.19 Minas Gerais
+7 11024.98 Rio Grande do Sul
+7 2665.42 Roraima
+3 13183.4 Santa Catarina
+6 8881.6 Ceara
+4 10985.8 Alagoas
+7 2767.63 Minas Gerais
+7 3310.98 Pará
+7 14556 Mato Grosso do Sul
+6 13153.38 Rio Grande do Norte
+3 8244.84 Alagoas
+4 3908.61 Piauí
+5 2406.1 Rio Grande do Norte
+2 10571.95 Bahia
+3 4287.22 Alagoas
+4 13847.31 Rio de Janeiro
+4 3557.53 Pará
+2 2184.19 Acre
+3 8739.88 Pernambuco
+3 13338.06 Acre
+6 8061.09 Goiás
+7 9930.27 Espírito Santo
+5 3522.75 Rio de Janeiro
+6 4072.75 Rio Grande do Sul
+7 2893.89 Pernambuco
+3 13258.11 Pará
+7 6520.93 Espírito Santo
+6 10600.45 Mato Grosso do Sul
+7 14643.75 Santa Catarina
+7 5491.94 Maranhão
+5 2778.42 Amapá
+7 5447.19 Bahia
+3 9430.03 Piauí
+7 3987.53 Santa Catarina
+4 11659.02 Mato Grosso
+4 11884 Mato Grosso do Sul
+7 9925.9 Mato Grosso do Sul
+6 3360.7 Alagoas
+3 8031.92 Paraná
+4 6831.54 Goiás
+2 12033.59 Mato Grosso
+6 4507.11 Ceara
+4 12620.28 Amapá
+5 3724.37 Rondônia
+6 5935.21 Acre
+2 8151.66 Paraíba
+4 9198.39 Distrito Federal
+7 3094.65 Piauí
+7 8641.01 Mato Grosso
+2 4809.02 Piauí
+6 4153.42 Amazonas
+7 6830.08 Paraíba
+2 13661.95 Acre
+6 9888.76 Goiás
+3 8000.31 Rio Grande do Norte
+3 6123.9 Roraima
+4 3609.25 Mato Grosso
+7 7030.34 Paraná
+3 13586.72 Pernambuco
+2 11592.9 Rio Grande do Norte
+7 5437.48 Rondônia
+2 14443.47 Minas Gerais
+3 8203.44 Sergipe
+2 6294.64 Mato Grosso do Sul
+7 2076.34 Rio Grande do Sul
+3 5877.15 Alagoas
+5 6599.9 Roraima
+6 13466.59 Espírito Santo
+5 6026.45 Espírito Santo
+4 9372.55 São Paulo
+4 7263.8 Mato Grosso
+4 11399.84 Alagoas
+7 5009.4 Tocantins
+7 11047.63 Bahia
+6 10004.34 Goiás
+3 3003.72 Espírito Santo
+7 7133.46 Goiás
+3 6747.81 Rondônia
+5 11622.12 Amapá
+7 3948.7 Rio Grande do Norte
+5 6947.29 Ceara
+6 12372.68 Rio de Janeiro
+6 12608.88 Rondônia
+5 14755.53 Piauí
+2 6181.21 Pernambuco
+4 9861.11 Rio Grande do Norte
+7 11371.74 Bahia
+4 13865.05 Santa Catarina
+4 9019.89 São Paulo
+5 9957.85 Tocantins
+3 10568.88 Paraná
+6 14488.8 Bahia
+2 8381.67 Ceara
+7 10459.41 Alagoas
+6 3487.61 Ceara
+6 5573.43 Piauí
+4 2999.9 Espírito Santo
+5 11443.33 Goiás
+6 13742.09 Amapá
+4 10375.85 Maranhão
+2 6782.21 Distrito Federal
+5 7011.91 Mato Grosso do Sul
+5 10832.17 Mato Grosso
+4 5055.91 Bahia
